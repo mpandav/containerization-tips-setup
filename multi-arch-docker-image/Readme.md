@@ -1,4 +1,4 @@
-# How to create docker image to support multi architecture (amd/arm/etc)?
+# How to create multi architecture (amd/arm) docker images? 
 
 You can use experimental feature from Docker called buildx to create the multi architecture supported images. The tool itself do not store the image to local repository but would help you to create and directly push the images to docker hub or registry.
 
