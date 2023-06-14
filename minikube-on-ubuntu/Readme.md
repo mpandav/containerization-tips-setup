@@ -1,6 +1,6 @@
 # How to install minikube on Ubuntu?
 
-Follow steps documented here for your os flavour and architecure
+Follow steps documented here for your os flavour and architecure</br>
 https://minikube.sigs.k8s.io/docs/start/
 
 ## Prerequisite steps
